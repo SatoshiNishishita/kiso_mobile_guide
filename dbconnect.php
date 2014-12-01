@@ -1,16 +1,16 @@
 <?php
 //データベース接続用のphpファイル
-//$db = mysql_connect('mysql016.phy.lolipop.lan', 'LAA0374382', '451mdg758', 'LAA0374382-kiso') or die(mysqli_connect_error());
+//$db = mysql_connect('****', '****', '****', '****') or die(mysqli_connect_error());
 //mysql_query("SET NAMES utf8");
 
 
 //MySQLサーバ名
-	$DBSERVER = "mysql016.phy.lolipop.lan";
+	$DBSERVER = "****";
 	//ログインユーザ名
-	$DBUSER = "LAA0374382";
+	$DBUSER = "****";
 	//パスワード
-	$DBPASSWORD = "451mdg758";
+	$DBPASSWORD = "****";
 	//データベース名
-	$DBNAME = "LAA0374382-kiso";
+	$DBNAME = "****";
 
 ?>
